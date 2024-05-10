@@ -10,4 +10,3 @@ if Rails.env.development?
         api_reloader.execute_if_updated
     end
 end
-  

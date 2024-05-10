@@ -5,4 +5,3 @@ module CatCafe
         mount CatCafe::V1::CafeItems
     end
 end
-   
